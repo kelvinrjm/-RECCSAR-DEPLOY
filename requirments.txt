@@ -1,7 +1,0 @@
-streamlit
-supabase
-google-genai
-groq
-pydantic
-python-dotenv
-pandas
