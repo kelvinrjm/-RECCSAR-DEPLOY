@@ -1,7 +1,7 @@
 streamlit
-pandas
-python-dotenv
+supabase
 google-genai
 groq
-supabase
 pydantic
+python-dotenv
+pandas
